@@ -1,9 +1,9 @@
 ;;;; cling.asd
 
 (asdf:defsystem #:cling
-  :description "Describe cling here"
+  :description "Handy web utilities"
   :author "Your Name <your.name@example.com>"
-  :license "Specify license here"
+  :license "MIT"
   :depends-on (#:spinneret
                #:spinneret/cl-markdown)
   :serial t
